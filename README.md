@@ -1,4 +1,4 @@
-# Online-Retail
+# Capstone Project -Online-Retail
 
 
 1.	Problem Statement 
